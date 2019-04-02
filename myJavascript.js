@@ -6,3 +6,4 @@ function hello(name){
 
 hello(name);
 console.log("Hi");
+
