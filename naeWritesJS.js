@@ -1,15 +1,13 @@
 let story = "My name is ";
 
 let oneNick = "Nick";
-let nick = 1;
 let twoRick = "Rick";
-let rick = 2;
 
 completeStory = story
-if (nick) {
+if (oneNick) {
 completeStory += oneNick;
 }
-if (rick){
+if (twoRick){
     completeStory += twoRick;
 }
 console.log(completeStory);
